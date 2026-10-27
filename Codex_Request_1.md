@@ -27,6 +27,6 @@ RULES:
 
 DELIVERABLE:
 
-Create a file named ANALISE_INICIAL.md containing a technical report, identified risks, and an implementation plan broken down into stages.
+Create a file named ANALISE_INICIAL.md (INITIAL_ANALYSIS.md) containing a technical report, identified risks, and an implementation plan broken down into stages.
 
 Do not begin implementation until the analysis is complete.
