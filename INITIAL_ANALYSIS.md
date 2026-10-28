@@ -1,6 +1,6 @@
 # Initial Analysis — TinyGo Bare Metal on Raspberry Pi 3B
 
-Criado pela IA ChatGPT.
+Created by ChatGPT AI.
 
 ## Executive summary
 
