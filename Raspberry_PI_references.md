@@ -1,7 +1,9 @@
 ## Raspberry Pi References: 
 
 There are currently several very interesting Bare Metal Raspberry Pi projects. Using the Rasp Pi as a SUPER microcontroller without an operating system. Very interesting!\
-(https://github.com/smuehlst/circle-stdlib)\
+
+(https://github.com/smuehlst/circle-stdlib)
+
 (https://github.com/rsta2/circle)
 
 I've already built a synthesizer based on the Yamaha DX7, using a Rasp Pi Bare Metal. Fantastic!
