@@ -7,7 +7,7 @@ FIRST TASK:
 1. Analyze the Circle project and identify the files responsible for the initialization of the Raspberry Pi 3B.
 
 
-**SD Card for RaspberryPi 3B:**
+**SD Card files for RaspberryPi 3B:**
 
  64-bit mode (AArch64) enabled
 
