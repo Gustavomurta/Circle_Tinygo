@@ -14,5 +14,5 @@ https://github.com/rsta2/circle
 config.txt  = Configures the firmware and selects the kernel\
 start.elf   = firmware executable for  Raspberry Pi 1-3	\
 fixup.dat   = relocation information for start.elf\
-kernel8.img = Binary image intended for loading by the firmware\
+kernel8.img = Binary image intended for loading by the firmware
 
