@@ -6,17 +6,17 @@ https://github.com/smuehlst/circle-stdlib
 
 https://github.com/rsta2/circle
 
-I've already built a synthesizer based on the Yamaha DX7, using a Rasp Pi Bare Metal. Fantastic!
-(https://github.com/probonopd/MiniDexed)
+I've already built a synthesizer based on the Yamaha DX7, using a Rasp Pi Bare Metal. Fantastic!  
+https://github.com/probonopd/MiniDexed
 
 ### All Raspberry Pi models:
-(https://www.raspberrypi.com/products/)
+https://www.raspberrypi.com/products/
 
 Much information about Broadcom's chips is not readily available. But I think the information that already exists is a good starting point.
 
-(https://www.raspberrypi.com/documentation/computers/raspberry-pi.html)
+https://www.raspberrypi.com/documentation/computers/raspberry-pi.html
 
-(https://datasheets.raspberrypi.com/)
+https://datasheets.raspberrypi.com/
 
 
 ## Processors for Raspberry Pi:
@@ -41,5 +41,5 @@ This is the Broadcom chip used in the Raspberry Pi 4 Model B, Compute Module 4, 
 Broadcom BCM2712 is the 16nm application processor used in Raspberry Pi 5, Compute Module 5, and Pi 500. It is the successor to the BCM2711 device used in Raspberry Pi 4, and shares many common architectural features with other devices in the BCM27xx family, used on earlier Raspberry Pi products.
 
 **Reference:**
-(https://www.raspberrypi.com/documentation/computers/processors.html)
+https://www.raspberrypi.com/documentation/computers/processors.html
 
