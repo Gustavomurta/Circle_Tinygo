@@ -7,7 +7,7 @@ There are currently several very interesting Bare Metal Raspberry Pi projects. U
 I've already built a synthesizer based on the Yamaha DX7, using a Rasp Pi Bare Metal. Fantastic!
 (https://github.com/probonopd/MiniDexed)
 
-# All Raspberry Pi models:
+### All Raspberry Pi models:
 (https://www.raspberrypi.com/products/)
 
 Much information about Broadcom's chips is not readily available. But I think the information that already exists is a good starting point.
