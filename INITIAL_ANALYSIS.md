@@ -1,5 +1,7 @@
 # Initial Analysis — TinyGo Bare Metal on Raspberry Pi 3B
 
+Criado pela IA ChatGPT.
+
 ## Executive summary
 
 It is technically feasible to run a TinyGo program without Linux on a Raspberry Pi 3B (BCM2837, four Cortex-A53 cores), but **TinyGo does not currently provide a ready-made target for this board**. The installation verified on this machine is tinygo 0.41.1 windows/amd64, with Go 1.26.5 and LLVM 20.1.1; neither the target enumeration nor the targets/ directory contains a raspberry, rpi, or pi3 target.
